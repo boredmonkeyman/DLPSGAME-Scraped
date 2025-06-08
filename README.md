@@ -1,3 +1,6 @@
+for more come join: https://www.reddit.com/r/LapSuS4/
+
+
 example of scraped data:
 
   "https://dlpsgame.com/fist-of-the-north-star-lost-paradise-ps4-pkg/": {
